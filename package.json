@@ -1,0 +1,25 @@
+{
+  "name": "flex-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slick.js",
+  "dependencies": {
+    "gsap": "^3.5.1",
+    "node.js": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coalcanvas/flex-source.git"
+  },
+  "keywords": [],
+  "author": "Amy <ansb1987@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coalcanvas/flex-source/issues"
+  },
+  "homepage": "https://github.com/coalcanvas/flex-source#readme"
+}
